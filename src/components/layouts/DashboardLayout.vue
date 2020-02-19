@@ -7,13 +7,14 @@
 
 <script>
     import '../../assets/admin/css/sb-admin-2.min.css'
-    import '../../assets/admin/vendor/jquery/jquery.min.js'
+    // import '../../assets/admin/vendor/jquery/jquery.min.js'
     import '../../assets/admin/vendor/bootstrap/js/bootstrap.bundle.min.js'
     import '../../assets/admin/vendor/jquery-easing/jquery.easing.min.js'
     import '../../assets/admin/js/sb-admin-2.min.js'
     import '../../assets/admin/vendor/chart.js/Chart.min.js'
-    import '../../assets/admin/js/demo/chart-area-demo.js'
-    import '../../assets/admin/js/demo/chart-pie-demo.js'
+    // import '../../assets/admin/js/demo/chart-area-demo.js'
+    // import '../../assets/admin/js/demo/chart-pie-demo.js'
+    //
     export default {
         name: "DashboardLayout"
     }

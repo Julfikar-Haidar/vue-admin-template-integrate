@@ -635,9 +635,14 @@
     </DashboardLayout>
 </template>
 
+
 <script>
+  import DashboardLayout from '../components/layouts/DashboardLayout'
     export default {
-        name: "dashboard"
+        name: "dashboard",
+      components:{
+          DashboardLayout
+      }
     }
 </script>
 
