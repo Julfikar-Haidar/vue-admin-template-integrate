@@ -14,7 +14,7 @@
     import '../../assets/admin/vendor/chart.js/Chart.min.js'
     // import '../../assets/admin/js/demo/chart-area-demo.js'
     // import '../../assets/admin/js/demo/chart-pie-demo.js'
-    //
+
     export default {
         name: "DashboardLayout"
     }
